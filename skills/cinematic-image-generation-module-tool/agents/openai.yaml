@@ -1,0 +1,7 @@
+interface:
+  display_name: "电影级图片生成模块工具"
+  short_description: "把模糊画面想法转换成电影级中文生图提示词。"
+  default_prompt: "Use $cinematic-image-generation-module-tool to turn my image idea into a structured cinematic Chinese image-generation prompt."
+
+policy:
+  allow_implicit_invocation: true

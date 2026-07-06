@@ -1,9 +1,9 @@
 ---
-name: cinematic-image-prompt-builder
-description: Convert rough image ideas into structured Chinese cinematic image-generation prompts. Use when the user wants prompt help for image generation, visual concept design, cinematic scenes, portraits, architecture, creatures, products, game/worldbuilding concepts, story keyframes, or a reusable prompt workflow/skill for tools such as Midjourney, 即梦, 豆包, 可灵, 通义万相, or ChatGPT Image.
+name: cinematic-image-generation-module-tool
+description: Convert rough image ideas into structured Chinese cinematic image-generation prompts as a cinematic image generation module tool. Use when the user wants prompt help for image generation, visual concept design, cinematic scenes, portraits, architecture, creatures, products, game/worldbuilding concepts, story keyframes, or a reusable prompt workflow/skill for tools such as Midjourney, 即梦, 豆包, 可灵, 通义万相, or ChatGPT Image.
 ---
 
-# Cinematic Image Prompt Builder
+# Cinematic Image Generation Module Tool
 
 ## Purpose
 
